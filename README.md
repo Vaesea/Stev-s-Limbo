@@ -33,6 +33,10 @@ I'm Gonna Break My Phone. Holy Shit.
 - [ ] Paradise (Heavev) (Extra)
 - [ ] Void (True Hostilev) (Secret)
 
+## Extra Info
+You can help with this if you want, I'll upload stuff such as effects for characters and voices for characters soon but if you want those now just ask me in issues or on Discord.
+My discord account is vaesea.
+
 ***
 
 ## Psych Engine Credits
