@@ -1,0 +1,54 @@
+{
+	"songs": [
+		[
+			"fence",
+			"stev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"desolation",
+			"normalandcheatingstev",
+			[
+				235,
+				235,
+				235
+			]
+		],
+		[
+			"malicious",
+			"cheatingstev",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"destroyed sword",
+			"godlystev",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stev",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "stev first week real oh my god",
+	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
