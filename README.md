@@ -12,6 +12,12 @@ Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very insp
 
 Convival (convival9 on youtube) (Made the instrumental of  No Limit)
 
+Your Average FNF Pro (Made VS Stev and all the stuff from VS Stev that's used in this mod)
+
+https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect)
+
+https://gamebanana.com/tuts/ 17332 (Wavy Background)
+
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
