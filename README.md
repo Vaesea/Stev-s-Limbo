@@ -29,7 +29,7 @@ I'm Gonna Break My Phone. Holy Shit.
 - [ ] Purple (Purplev) (Week 4)
 - [ ] Frozen (Blev) (Week 5)
 - [x] Heaven (V6) (Heavev) (Week 5)
-- [ ] Cold Blood (Blev) (Week 6)
+- [ ] Cold Blood (Blood Blev) (Week 6)
 - [ ] Paradise (Heavev) (Extra)
 - [ ] Void (True Hostilev) (Secret)
 
