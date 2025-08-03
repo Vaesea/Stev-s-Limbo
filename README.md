@@ -10,7 +10,7 @@ this is not being worked on yet except from a few songs that have been made like
 ## Stev's Limbo Credits
 Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very inspired by bambi's purgatory))
 
-Convival (convival9 on youtube) (Made the instrumental of an upcoming song)
+Convival (convival9 on youtube) (Made the instrumental of  No Limit)
 
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
