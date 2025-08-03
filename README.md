@@ -15,6 +15,24 @@ Convival (convival9 on youtube) (Made the instrumental of an upcoming song)
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
+## Songs finished (For Demo 1)
+- [ ] Fence (Angry Stev) (Week 1)
+- [x] Desolation (V2 / Remake) (Angry Stev, Cheating Stev) (Week 1)
+- [ ] Malicious (Cheating Stev) (Week 1)
+- [ ] Destroyed Sword (Godly Stev) (Week 1)
+- [x] Error (410 Hostilev) (Week 2)
+- [x] Gone (410 Hostilev) (Week 2)
+- [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2)
+- [x] No Limit (Hellish Hostilev) (Week 2)
+- [x] Corny (Bambi) (Week 3)
+- [ ] Corn And Swords (Bambi + Stev) (Week 3)
+- [ ] Purple (Purplev) (Week 4)
+- [ ] Frozen (Blev) (Week 5)
+- [x] Heaven (V6) (Heavev) (Week 5)
+- [ ] Cold Blood (Blev) (Week 6)
+- [ ] Paradise (Heavev) (Extra)
+- [ ] Void (True Hostilev) (Secret)
+
 ***
 
 ## Psych Engine Credits
