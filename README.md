@@ -18,6 +18,8 @@ https://gamebanana.com/tuts/ 17332 (Wavy Background)
 
 https://gamebanana.com/tools/ 17598 (Zoom Event)
 
+https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script)
+
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
