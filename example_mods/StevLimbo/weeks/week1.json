@@ -5,11 +5,16 @@
 	"weekBackground": "stev",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"hideStoryMode": false,
 	"songs": [
 		[
 			"lava",
-			"stev",
+			"stevmad",
 			[
 				255,
 				255,
@@ -44,11 +49,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }
