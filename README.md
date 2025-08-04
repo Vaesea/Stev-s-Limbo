@@ -27,7 +27,7 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Lava (V3) (Angry Stev) (Week 1)
 - [x] Angry (Angry Stev, Cheating Stev) (Week 1)
 - [x] Malicious (Cheating Stev) (Week 1)
-- [x] Destroyed Sword (Godly Stev) (Week 1) (Being worked on)
+- [x] Destroyed Sword (Godly Stev) (Week 1)
 - [x] Error (410 Hostilev) (Week 2)
 - [x] Gone (410 Hostilev) (Week 2)
 - [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2)
