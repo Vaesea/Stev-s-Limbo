@@ -21,7 +21,7 @@ https://gamebanana.com/tools/ 17598 (Zoom Event)
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
-## Songs finished (For The Demo)
+## Songs (For The Demo)
 - [x] Lava (V3) (Angry Stev) (Week 1)
 - [x] Angry (Angry Stev, Cheating Stev) (Week 1)
 - [x] Malicious (Cheating Stev) (Week 1)
@@ -39,7 +39,7 @@ I'm Gonna Break My Phone. Holy Shit.
 - [ ] Paradise (Heavev) (Extra)
 - [ ] Void (True Hostilev) (Secret)
 
-## Songs finished (For The Full Version)
+## Songs (For The Full Version)
 - [x] Lava (V3) (Angry Stev) (Week 1)
 - [ ] Angry (Angry Stev, Cheating Stev) (Week 1)
 - [ ] Malicious (Cheating Stev) (Week 1)
