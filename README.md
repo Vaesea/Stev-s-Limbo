@@ -24,7 +24,7 @@ I'm Gonna Break My Phone. Holy Shit.
 ## Songs finished (For The Demo)
 - [x] Lava (V3) (Angry Stev) (Week 1)
 - [x] Angry (Angry Stev, Cheating Stev) (Week 1)
-- [ ] Malicious (Cheating Stev) (Week 1) (Being worked on)
+- [ ] Malicious (Cheating Stev) (Week 1) (being worked on)
 - [ ] Destroyed Sword (Godly Stev) (Week 1)
 - [x] Error (410 Hostilev) (Week 2)
 - [x] Gone (410 Hostilev) (Week 2)
