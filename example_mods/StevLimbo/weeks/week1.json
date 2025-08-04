@@ -1,7 +1,14 @@
 {
+	"storyName": "stev first week real oh my god",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stev",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
-			"fence",
+			"lava",
 			"stev",
 			[
 				255,
@@ -10,7 +17,7 @@
 			]
 		],
 		[
-			"desolation",
+			"angry",
 			"normalandcheatingstev",
 			[
 				235,
@@ -37,18 +44,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stev",
-	"difficulties": "Normal",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "stev first week real oh my god",
-	"weekName": "Custom Week",
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }
