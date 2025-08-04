@@ -18,6 +18,8 @@ https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect)
 
 https://gamebanana.com/tuts/ 17332 (Wavy Background)
 
+https://gamebanana.com/tools/ 17598 (Zoom Event)
+
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
