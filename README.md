@@ -8,8 +8,6 @@ there are bugs under your skin and in the walls!
 ## Stev's Limbo Credits
 Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very inspired by bambi's purgatory))
 
-Convival (convival9 on youtube) (Made the instrumental of  No Limit)
-
 Your Average FNF Pro (Made VS Stev and all the stuff from VS Stev that's used in this mod)
 
 https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect)
@@ -24,25 +22,24 @@ https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
 
 https://github.com / fizzyp2 /healthdrainlua (Health Drain Script)
 
-The reason why Gamebanana and GitHub links have spaces in them is because I'm paranoid about accidentally giving a notification to someone
+The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
 ## Songs (For The Demo)
 - [x] Lava (V3) (Angry Stev) (Week 1)
-- [x] Angry (Angry Stev, Cheating Stev) (Week 1)
+- [x] Angry (Angry Stev, Cheating Stev) (Week 1) (inspired by shattered)
 - [x] Malicious (Cheating Stev) (Week 1)
-- [x] Destroyed Sword (Godly Stev) (Week 1)
-- [x] Error (410 Hostilev) (Week 2)
-- [x] Gone (410 Hostilev) (Week 2)
-- [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2) (being worked on)
-- [x] No Limit (Hellish Hostilev) (Week 2)
+- [x] Destroyed Sword (Godly Stev) (Week 1) (inspired by reality breaking)
+- [x] Error (410 Hostilev) (Week 2) (inspired by rebound)
+- [x] Gone (410 Hostilev) (Week 2) (inspired by the new disposition)
+- [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2) (being worked on) (inspired by upheaval)
 - [x] Corny (Bambi) (Week 3)
 - [ ] Corn And Diamonds (Bambi + Stev) (Week 3)
 - [ ] Purple (Purplev) (Week 4)
 - [ ] Frozen (Blev) (Week 5)
-- [x] Heaven (V6) (Heavev) (Week 5)
+- [x] Heaven (V6) (Heavev) (Week 5) (inspired by kill-aura)
 - [ ] Cold Blood (Blood Blev) (Week 6)
 - [ ] Paradise (Heavev) (Extra)
 - [ ] Void (True Hostilev) (Secret)
@@ -54,8 +51,8 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Destroyed Sword (Godly Stev) (Week 1)
 - [x] Error (410 Hostilev) (Week 2)
 - [x] Gone (410 Hostilev) (Week 2)
+- [ ] Unavailable (410 Hostilev) (Week 2)
 - [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2)
-- [x] No Limit (Hellish Hostilev) (Week 2)
 - [x] Corny (Bambi) (Week 3)
 - [ ] Corn And Swords (Bambi + Stev) (Week 3)
 - [x] Backspace (Bambi) (Week 3)
@@ -86,6 +83,10 @@ I'm Gonna Break My Phone. Holy Shit.
 - [ ] Systematize (Arratev) (Extra) (I was making an Arratev song named Systematize a long time ago but that's scrapped)
 - [ ] Paradise (Heavev) (Extra)
 - [ ] Void (True Hostilev) (Secret)
+
+## Scrapped Songs and Song Ideas
+- [x] No Limit (Hellish Hostilev) (Scrapped because the vocals of it were terrible and it no longer makes sense to be in the mod)
+
 
 ## Extra Info
 You can help with this if you want, I'll upload stuff such as effects for characters and voices for characters soon but if you want those now just ask me in issues or on Discord.
