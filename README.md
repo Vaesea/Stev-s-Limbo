@@ -22,6 +22,10 @@ https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Ch
 
 https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
 
+https://github.com / fizzyp2 /healthdrainlua (Health Drain Script)
+
+The reason why Gamebanana and GitHub links have spaces in them is because I'm paranoid about accidentally giving a notification to someone
+
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
