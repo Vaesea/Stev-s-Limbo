@@ -9,3 +9,4 @@ criwithlies::null::Made a chromatic abberation thing::https://gamebanana.com/mem
 bitto::null::Made a zoom event::https://gamebanana.com/members/1981980::FFFFFF
 villezen::null::Made a tutorial for a flash camera event::https://www.youtube.com/channel/UCo0J58hC0TqrM7G8uaQilxA::FFFFFF
 Uhard999::null::Made a flying character script::https://gamejolt.com/@Uhard999::FFFFFF
+fizzyp2::null::Made a health drain script::https://github.com/fizzyp2::FFFFFF
