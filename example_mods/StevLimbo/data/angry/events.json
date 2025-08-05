@@ -4,7 +4,8 @@
 			111483.870967742,
 			[
 				["Play Animation", "hurt", "bf"],
-				["Change Character", "dad", "cheatingstev"]
+				["Change Character", "dad", "cheatingstev"],
+				["Flash Camera", "0.5", ""]
 			]
 		]
 	],
