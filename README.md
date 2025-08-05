@@ -38,7 +38,7 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Destroyed Sword (Godly Stev) (Week 1) (inspired by reality breaking)
 - [x] Error (Nightmare Hostilev) (Week 2) (inspired by rebound)
 - [x] Gone (Nightmare Hostilev) (Week 2) (inspired by the new disposition)
-- [ ] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2) (being worked on) (inspired by upheaval)
+- [x] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2) (inspired by upheaval)
 - [x] Corny (Bambi) (Week 3)
 - [ ] Corn And Diamonds (Bambi + Stev) (Week 3)
 - [ ] Purple (Purplev) (Week 4)
