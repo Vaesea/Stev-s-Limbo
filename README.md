@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
 
 https://github.com / fizzyp2 /healthdrainlua (Health Drain Script)
 
+https://x.com/SonnahRoland/status/1835645967841824792 (the bf voice used in gone, will probably be changed because the rest of the mod uses the normal bf voice)
+
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
 ## Bambi has something to say!
