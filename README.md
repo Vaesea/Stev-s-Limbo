@@ -26,6 +26,10 @@ https://github.com / fizzyp2 /healthdrainlua (Health Drain Script)
 
 https://x.com/SonnahRoland/status/1835645967841824792 (the bf voice used in gone, will probably be changed because the rest of the mod uses the normal bf voice)
 
+https://gamebanana.com/wips/ 71103 (Phone Note Assets)
+
+VS Dave And Bambi Team - Bambi and Phone Note Assets (https://gamebanana.com/mods/ 43201)
+
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
 ## Bambi has something to say!
@@ -56,7 +60,7 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Error (Nightmare Hostilev) (Week 2)
 - [x] Gone (Nightmare Hostilev) (Week 2)
 - [ ] Nightmare (Nightmare Hostilev) (Week 2)
-- [ ] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2)
+- [x] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2)
 - [x] Corny (Bambi) (Week 3)
 - [ ] Corn And Diamonds (Bambi + Stev) (Week 3)
 - [x] Backspace (Bambi) (Week 3)
