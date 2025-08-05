@@ -20,6 +20,8 @@ https://gamebanana.com/tools/ 17598 (Zoom Event)
 
 https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script)
 
+https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
+
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
