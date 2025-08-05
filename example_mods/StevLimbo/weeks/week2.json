@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"error",
+			"410hostilev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"gone",
+			"410hostilev",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"http",
+			"hellishhostilev",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "nightmare",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "im so sorry for copying upheaval lol",
+	"weekName": "Week 2",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
