@@ -43,6 +43,7 @@ class Note extends FlxSprite
 	public static final defaultNoteTypes:Array<String> = [
 		'', //Always leave this one empty pls
 		'Alt Animation',
+		'Phone',
 		'Hey!',
 		'Hurt Note',
 		'GF Sing',
