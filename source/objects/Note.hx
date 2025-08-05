@@ -43,7 +43,8 @@ class Note extends FlxSprite
 	public static final defaultNoteTypes:Array<String> = [
 		'', //Always leave this one empty pls
 		'Alt Animation',
-		'Phone',
+		'Phone Alt Animation',
+		'Phone No Animation',
 		'Hey!',
 		'Hurt Note',
 		'GF Sing',
@@ -221,9 +222,13 @@ class Note extends FlxSprite
 					hitsoundChartEditor = false;
 				case 'Alt Animation':
 					animSuffix = '-alt';
-				case 'Phone':
-					reloadNote('PHONENOTE_assets'); // hopefully this shit works
-					animSuffix = '-alt';
+				case 'Phone Alt Animation':
+					reloadNote('PHONENOTE_assets'); // Changes note image
+					animSuffix = '-alt'; // Sets Animation Suffix to -alt
+				case 'Phone No Animation':
+					reloadNote('PHONENOTE_assets');
+					noAnimation = true; // Makes it so when hit, no animation happens
+					noMissAnimation = true; // Makes it so when missed, no animation happens.
 				case 'No Animation':
 					noAnimation = true;
 					noMissAnimation = true;
