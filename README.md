@@ -30,7 +30,7 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Destroyed Sword (Godly Stev) (Week 1)
 - [x] Error (410 Hostilev) (Week 2)
 - [x] Gone (410 Hostilev) (Week 2)
-- [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2)
+- [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2) (being worked on)
 - [x] No Limit (Hellish Hostilev) (Week 2)
 - [x] Corny (Bambi) (Week 3)
 - [ ] Corn And Diamonds (Bambi + Stev) (Week 3)
