@@ -1,4 +1,11 @@
 {
+	"storyName": "im so sorry for copying upheaval lol",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "nightmare",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"error",
@@ -28,18 +35,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "nightmare",
-	"difficulties": "",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "im so sorry for copying upheaval lol",
-	"weekName": "Week 2",
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 2"
 }
