@@ -5,6 +5,8 @@ psych engine 1.0.4 takes way too long to compile but im using it anyways!
 
 there are bugs under your skin and in the walls!
 
+410 hostilev??? nightmare hostilev.
+
 ## Stev's Limbo Credits
 Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very inspired by bambi's purgatory))
 
@@ -34,9 +36,9 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Angry (Angry Stev, Cheating Stev) (Week 1) (inspired by shattered)
 - [x] Malicious (Cheating Stev) (Week 1)
 - [x] Destroyed Sword (Godly Stev) (Week 1) (inspired by reality breaking)
-- [x] Error (410 Hostilev) (Week 2) (inspired by rebound)
-- [x] Gone (410 Hostilev) (Week 2) (inspired by the new disposition)
-- [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2) (being worked on) (inspired by upheaval)
+- [x] Error (Nightmare Hostilev) (Week 2) (inspired by rebound)
+- [x] Gone (Nightmare Hostilev) (Week 2) (inspired by the new disposition)
+- [ ] Http (Nightmare Hostilev, Hellish Hostilev) (Week 2) (being worked on) (inspired by upheaval)
 - [x] Corny (Bambi) (Week 3)
 - [ ] Corn And Diamonds (Bambi + Stev) (Week 3)
 - [ ] Purple (Purplev) (Week 4)
@@ -51,12 +53,12 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Angry (Angry Stev, Cheating Stev) (Week 1)
 - [x] Malicious (Cheating Stev) (Week 1)
 - [x] Destroyed Sword (Godly Stev) (Week 1)
-- [x] Error (410 Hostilev) (Week 2)
-- [x] Gone (410 Hostilev) (Week 2)
-- [ ] Unavailable (410 Hostilev) (Week 2)
-- [ ] Http (410 Hostilev, Hellish Hostilev) (Week 2)
+- [x] Error (Nightmare Hostilev) (Week 2)
+- [x] Gone (Nightmare Hostilev) (Week 2)
+- [ ] Unavailable (Nightmare Hostilev) (Week 2)
+- [ ] Http (Nightmare Hostilev, Hellish Hostilev) (Week 2)
 - [x] Corny (Bambi) (Week 3)
-- [ ] Corn And Swords (Bambi + Stev) (Week 3)
+- [ ] Corn And Diamonds (Bambi + Stev) (Week 3)
 - [x] Backspace (Bambi) (Week 3)
 - [ ] Purple (Purplev) (Week 4)
 - [x] Golden (Yelev) (Week 4)
