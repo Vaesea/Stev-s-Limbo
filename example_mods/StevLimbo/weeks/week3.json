@@ -5,15 +5,9 @@
 	"weekBackground": "nightmare",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hideStoryMode": false,
 	"songs": [
 		[
-			"corny",
+			"farm of corn",
 			"bambi",
 			[
 				0,
@@ -31,7 +25,7 @@
 			]
 		],
 		[
-			"farm of corn",
+			"tope",
 			"bambi",
 			[
 				0,
@@ -40,6 +34,12 @@
 			]
 		]
 	],
-	"weekName": "Week 3",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 3"
 }
