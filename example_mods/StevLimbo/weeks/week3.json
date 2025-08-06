@@ -1,5 +1,5 @@
 {
-	"storyName": "a nightmare",
+	"storyName": "corn is everywhere",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "nightmare",
@@ -13,33 +13,33 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"error",
-			"410hostilev",
+			"corny",
+			"bambi",
 			[
-				255,
-				255,
-				255
+				0,
+				235,
+				60
 			]
 		],
 		[
-			"gone",
-			"410hostilev",
+			"corn and diamonds",
+			"stevandbambi",
 			[
+				160,
 				255,
-				255,
-				255
+				160
 			]
 		],
 		[
-			"bad dream",
-			"hellishhostilev",
+			"farm of corn",
+			"bambi",
 			[
 				0,
-				0,
-				0
+				235,
+				60
 			]
 		]
 	],
-	"weekName": "Week 2",
+	"weekName": "Week 3",
 	"hiddenUntilUnlocked": false
 }
