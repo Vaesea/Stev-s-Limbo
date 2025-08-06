@@ -97,6 +97,7 @@ I'm Gonna Break My Phone. Holy Shit.
 ## Scrapped Songs and Song Ideas
 - [x] No Limit (Hellish Hostilev) (Scrapped because the vocals of it were terrible and it no longer makes sense to be in the mod)
 - [x] Corny (Bambi) (Scrapped because I just didn't want to chart it)
+- [x] Gone (Nightmare Hostilev) (Scrapped because it was stupid. The song was pretty good but the lyrics part was weird)
 
 
 ## Extra Info
