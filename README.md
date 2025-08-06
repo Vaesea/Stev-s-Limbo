@@ -30,6 +30,8 @@ https://gamebanana.com/wips/ 71103 (Phone Note Assets)
 
 VS Dave And Bambi Team - Bambi and Phone Note Assets (https://gamebanana.com/mods/ 43201)
 
+https://gamebanana.com/tools/ 9119 (Bambi Chromatic Scale)
+
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
 ## Bambi has something to say!
