@@ -3,26 +3,31 @@
 		0,
 		0
 	],
+	"preload": {
+		"images/backgrounds/sky": 3,
+		"images/backgrounds/farm/cornbag": 3,
+		"images/backgrounds/farm/gm_flatgrass": 3,
+		"images/backgrounds/farm/cornFence": 3,
+		"images/backgrounds/farm/sign": 3,
+		"images/backgrounds/farm/grasslands": 3,
+		"images/backgrounds/farm/funfarmhouse": 3,
+		"images/backgrounds/farm/orangeyhills": 3
+	},
 	"_editorMeta": {
 		"boyfriend": "bf",
-		"gf": "gf",
-		"dad": "stev"
+		"dad": "bambi",
+		"gf": "gf"
 	},
-	"preload": {
-		"images/stage_light": 2,
-		"images/stagecurtains": 2,
-		"images/stagefront": 3,
-		"images/stageback": 3
-	},
+	"boyfriend": [
+		1109,
+		84
+	],
+	"stageUI": "",
 	"girlfriend": [
 		624,
 		100
 	],
-	"stageUI": "",
-	"boyfriend": [
-		1040,
-		86
-	],
+	"defaultZoom": 0.8,
 	"objects": [
 		{
 			"x": -300,
@@ -236,16 +241,15 @@
 		0,
 		0
 	],
-	"defaultZoom": 0.8,
-	"camera_speed": 1,
-	"directory": "week1",
 	"opponent": [
-		543,
-		62
+		517,
+		61
 	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
 	"camera_opponent": [
 		0,
 		0
-	],
-	"hide_girlfriend": false
+	]
 }
