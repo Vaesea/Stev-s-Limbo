@@ -10,3 +10,4 @@ villezen::placeholder::Made a tutorial for a flash camera event::https://www.you
 Uhard999::placeholder::Made a flying character script::https://gamejolt.com/@Uhard999::FFFFFF
 fizzyp2::placeholder::Made a health drain script::https://github.com/fizzyp2::FFFFFF
 Dave And Bambi Team::dave::Made everything that is from Dave And Bambi::https://gamebanana.com/mods/43201::0F5FFF
+Anonymously_Present::placeholder::Made the Bambi chromatic used in Tope::https://gamebanana.com/members/2121558::A020F0
