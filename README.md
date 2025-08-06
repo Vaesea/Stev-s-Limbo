@@ -24,8 +24,6 @@ https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
 
 https://github.com / fizzyp2 /healthdrainlua (Health Drain Script)
 
-https://x.com/SonnahRoland/status/1835645967841824792 (the bf voice used in gone, will probably be changed because the rest of the mod uses the normal bf voice)
-
 https://gamebanana.com/wips/ 71103 (Phone Note Assets)
 
 VS Dave And Bambi Team - Bambi and Phone Note Assets (https://gamebanana.com/mods/ 43201)
