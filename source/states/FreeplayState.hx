@@ -195,7 +195,7 @@ class FreeplayState extends MusicBeatState
 		{
 			case 'main':
 				addWeek(['tutorial'], 0, 0xFFFFFF, ['gf']);
-				addWeek(['lava', 'angry', 'malicious', 'destroyed-sword'], 1, 0xFFFFFF, ['stev', '410hostilev', 'stev']);
+				addWeek(['lava', 'angry', 'malicious', 'destroyed-sword'], 1, 0xFFFFFF, ['stevmad', 'normalandcheatingstev', 'cheatingstev', 'godlystev']);
 				addWeek(['error', 'scare', 'bad-dream'], 2, 0xFFFFFF, ['410hostilev', '410hostilev', 'hellishhostilev']);
 				addWeek(['farm-of-corn', 'corn-and-diamonds', 'tope'], 3, 0xFFFFFF, ['bambi', 'stevandbambi', 'bambi']);
 			default:
