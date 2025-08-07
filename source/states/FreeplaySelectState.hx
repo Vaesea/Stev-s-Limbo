@@ -56,7 +56,7 @@ class FreeplaySelectState extends MusicBeatState {
 		// Instructional text
 		tutorialText = new FlxText(0, FlxG.height - 40, FlxG.width,
 			"← / → to change category   |   ENTER to select   |   ESC to return");
-		tutorialText.setFormat(Paths.font("vcr.ttf"), 18, FlxColor.WHITE, FlxTextAlign.CENTER);
+		tutorialText.setFormat(Paths.font("comic.ttf"), 18, FlxColor.WHITE, FlxTextAlign.CENTER);
 		tutorialText.scrollFactor.set();
 		tutorialText.alpha = 0.9;
 		add(tutorialText);
@@ -165,5 +165,6 @@ class FreeplaySelectState extends MusicBeatState {
 		}
 	}
 }
+
 
 
