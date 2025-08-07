@@ -20,6 +20,7 @@ import haxe.Json;
 class FreeplayState extends MusicBeatState
 {
 	var songs:Array<SongMetadata> = [];
+	
 
 	var selector:FlxText;
 	private static var curSelected:Int = 0;
@@ -52,6 +53,8 @@ class FreeplayState extends MusicBeatState
 
 	var player:MusicPlayer;
 
+	var customWeeks:Map<String, CustomWeek> = new Map();
+
 	override function create()
 	{
 		//Paths.clearStoredMemory();
@@ -76,32 +79,9 @@ class FreeplayState extends MusicBeatState
 			return;
 		}
 
-		for (i in 0...WeekData.weeksList.length)
-		{
-			if(weekIsLocked(WeekData.weeksList[i])) continue;
-
-			var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[i]);
-			var leSongs:Array<String> = [];
-			var leChars:Array<String> = [];
-
-			for (j in 0...leWeek.songs.length)
-			{
-				leSongs.push(leWeek.songs[j][0]);
-				leChars.push(leWeek.songs[j][1]);
-			}
-
-			WeekData.setDirectoryFromWeek(leWeek);
-			for (song in leWeek.songs)
-			{
-				var colors:Array<Int> = song[2];
-				if(colors == null || colors.length < 3)
-				{
-					colors = [146, 113, 253];
-				}
-				addSong(song[0], i, song[1], FlxColor.fromRGB(colors[0], colors[1], colors[2]));
-			}
-		}
-		Mods.loadTopMod();
+		// Load songs by category
+		var category = FreeplaySelectState.freeplayCats[FreeplaySelectState.curCategory].toLowerCase();
+		loadCategorySongs(category);
 
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		bg.antialiasing = ClientPrefs.data.antialiasing;
@@ -196,6 +176,74 @@ class FreeplayState extends MusicBeatState
 		changeSelection(0, false);
 		persistentUpdate = true;
 		super.closeSubState();
+	}
+
+	function loadCategorySongs(category:String)
+	{
+		songs = []; // Clear existing songs
+
+		if (customWeeks != null && customWeeks.exists(category) && !customWeeks.get(category).locked)
+		{
+			var week = customWeeks.get(category);
+			for (i in 0...week.songs.length)
+			{
+				var char = week.characters != null && week.characters.length > i ? week.characters[i] : 'bf';
+				addSong(week.songs[i], week.weekNum, char, week.color);
+			}
+		}
+		else switch (category)
+		{
+			case 'templatecat':
+				addWeek(['tutorial'], 0, 0xFFca1f6f, ['gf']);
+			default:
+				trace('Category not found: $category - loading all songs');
+				loadAllSongs();
+		}
+	}
+
+	function loadAllSongs()
+	{
+		if (customWeeks != null)
+		{
+			for (category in customWeeks.keys())
+			{
+				var week = customWeeks.get(category);
+				if (!week.locked)
+				{
+					for (i in 0...week.songs.length)
+					{
+						var char = week.characters != null && week.characters.length > i ? week.characters[i] : 'bf';
+						addSong(week.songs[i], week.weekNum, char, week.color);
+					}
+				}
+			}
+		}
+
+		if (songs.length == 0)
+		{
+			for (i in 0...WeekData.weeksList.length)
+			{
+				if(weekIsLocked(WeekData.weeksList[i])) continue;
+
+				var leWeek:WeekData = WeekData.weeksLoaded.get(WeekData.weeksList[i]);
+				WeekData.setDirectoryFromWeek(leWeek);
+				for (song in leWeek.songs)
+				{
+					var colors:Array<Int> = song[2];
+					if(colors == null || colors.length < 3) colors = [146, 113, 253];
+					addSong(song[0], i, song[1], FlxColor.fromRGB(colors[0], colors[1], colors[2]));
+				}
+			}
+		}
+	}
+
+	function addWeek(songNames:Array<String>, weekNum:Int, color:Int, characters:Array<String>)
+	{
+		for (i in 0...songNames.length)
+		{
+			var char = characters != null && characters.length > i ? characters[i] : 'bf';
+			addSong(songNames[i], weekNum, char, color);
+		}
 	}
 
 	public function addSong(songName:String, weekNum:Int, songCharacter:String, color:Int)
@@ -625,4 +673,20 @@ class SongMetadata
 		this.folder = Mods.currentModDirectory;
 		if(this.folder == null) this.folder = '';
 	}
+}
+
+class CustomWeek {
+    public var songs:Array<String>;
+    public var weekNum:Int;
+    public var color:Int;
+    public var characters:Array<String>;
+    public var locked:Bool;
+
+    public function new(songs:Array<String>, weekNum:Int, color:Int, characters:Array<String>, locked:Bool = false) {
+        this.songs = songs;
+        this.weekNum = weekNum;
+        this.color = color;
+        this.characters = characters;
+        this.locked = locked;
+    }
 }
