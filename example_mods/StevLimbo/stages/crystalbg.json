@@ -58,7 +58,7 @@
 			"color": "FFFFFF",
 			"angle": 0,
 			"name": "platform",
-			"antialiasing": true,
+			"antialiasing": false,
 			"flipY": false,
 			"scroll": [
 				1,
