@@ -32,6 +32,8 @@ https://gamebanana.com/mods/ 380918 (Lyrics Event)
 
 https://gamebanana.com/tuts/ 18945 (Freeplay Categories)
 
+I forgot where Camera Switch came from.
+
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
 ## Bambi has something to say!
