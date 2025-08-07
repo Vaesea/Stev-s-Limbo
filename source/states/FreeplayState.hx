@@ -198,6 +198,11 @@ class FreeplayState extends MusicBeatState
 				addWeek(['lava', 'angry', 'malicious', 'destroyed-sword'], 1, 0xFFFFFF, ['stevmad', 'normalandcheatingstev', 'cheatingstev', 'godlystev']);
 				addWeek(['error', 'scare', 'bad-dream'], 2, 0xFFFFFF, ['410hostilev', '410hostilev', 'hellishhostilev']);
 				addWeek(['farm-of-corn', 'corn-and-diamonds', 'tope'], 3, 0xFFFFFF, ['bambi', 'stevandbambi', 'bambi']);
+				addWeek(['purple'], 4, 0xFFFFFF, ['purplev']);
+				addWeek(['frozen'], 5, 0xFFFFFF, ['blev']);
+				addWeek(['cold-blood'], 6, 0xFFFFFF, ['bloodblev']);
+			case 'extra':
+				addWeek(['paradise', 'void'], 0, 0xFFFFFF, ['heavev', 'truehostilev']);
 			default:
 				trace('Category not found: $category - loading all songs');
 				loadAllSongs();
