@@ -176,7 +176,7 @@ class PlayState extends MusicBeatState
 	public var health(default, set):Float = 1;
 	public var combo:Int = 0;
 
-	public var Bar;
+	public var healthBar:Bar;
 	public var timeBar:Bar;
 	var songPercent:Float = 0;
 
