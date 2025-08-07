@@ -197,9 +197,10 @@ class FreeplayState extends MusicBeatState
 				addWeek(['lava', 'angry', 'malicious', 'destroyed-sword'], 0, 0xFFFFFF, ['stevmad', 'normalandcheatingstev', 'cheatingstev', 'godlystev']);
 				addWeek(['error', 'scare', 'bad-dream'], 1, 0xFFFFFF, ['410hostilev', '410hostilev', 'hellishhostilev']);
 				addWeek(['farm-of-corn', 'corn-and-diamonds', 'tope'], 2, 0xFFFFFF, ['bambi', 'stevandbambi', 'bambi']);
-				addWeek(['purple'], 3, 0xFFFFFF, ['purplev']);
-				addWeek(['frozen'], 4, 0xFFFFFF, ['blev']);
-				addWeek(['cold-blood'], 5, 0xFFFFFF, ['bloodblev']);
+			case 'maintwo':
+				addWeek(['purple'], 0, 0xFFFFFF, ['purplev']);
+				addWeek(['frozen'], 1, 0xFFFFFF, ['blev']);
+				addWeek(['cold-blood'], 2, 0xFFFFFF, ['bloodblev']);
 			case 'extra':
 				addWeek(['paradise', 'void'], 0, 0xFFFFFF, ['heavev', 'truehostilev']);
 			default:
