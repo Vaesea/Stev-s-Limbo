@@ -176,7 +176,7 @@ class PlayState extends MusicBeatState
 	public var health(default, set):Float = 1;
 	public var combo:Int = 0;
 
-	public var healthBar:Bar;
+	public var :Bar;
 	public var timeBar:Bar;
 	var songPercent:Float = 0;
 
@@ -208,6 +208,8 @@ class PlayState extends MusicBeatState
 	public var camGame:FlxCamera;
 	public var camOther:FlxCamera;
 	public var cameraSpeed:Float = 1;
+
+	var watermark:FlxText;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -553,6 +555,13 @@ class PlayState extends MusicBeatState
 		scoreTxt.borderSize = 1.25;
 		scoreTxt.visible = !ClientPrefs.data.hideHud;
 		uiGroup.add(scoreTxt);
+
+		watermark = new FlxText(scoreTxt.x + 30, scoreTxt.y + 0, "Stev's Limbo v" + MainMenuState.psychEngineVersion, 20);
+		watermark.setFormat(Paths.font("comic.ttf"), 20, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		watermark.scrollFactor.set();
+		scoreTxt.borderSize = 1.25;
+		scoreTxt.visible = !ClientPrefs.data.hideHud;
+		uiGroup.add(watermark);
 
 		botplayTxt = new FlxText(400, healthBar.y - 90, FlxG.width - 800, Language.getPhrase("Botplay").toUpperCase(), 32);
 		botplayTxt.setFormat(Paths.font("comic.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
