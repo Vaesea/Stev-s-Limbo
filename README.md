@@ -3,8 +3,6 @@ really inspired by bambi's purgatory
 
 psych engine 1.0.4 takes way too long to compile but im using it anyways!
 
-there are bugs under your skin and in the walls!
-
 410 hostilev??? nightmare hostilev.
 
 ## Stev's Limbo Credits
@@ -31,6 +29,8 @@ VS Dave And Bambi Team - Bambi and Phone Note Assets (https://gamebanana.com/mod
 https://gamebanana.com/tools/ 9119 (Bambi Chromatic Scale)
 
 https://gamebanana.com/mods/ 380918 (Lyrics Event)
+
+https://gamebanana.com/tuts/ 18945 (Freeplay Categories)
 
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
