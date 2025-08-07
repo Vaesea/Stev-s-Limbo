@@ -52,7 +52,7 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Farm Of Corn (V2) (Bambi) (Week 3)
 - [x] Corn And Diamonds (Bambi + Stev) (Week 3)
 - [x] Tope (V2) (Bambi) (Week 3)
-- [ ] Purple (Purplev) (Week 4)
+- [x] Purple (Purplev) (Week 4)
 - [ ] Frozen (Blev) (Week 5)
 - [ ] Cold Blood (Blood Blev) (Week 6)
 - [ ] Paradise (Heavev) (Extra)
