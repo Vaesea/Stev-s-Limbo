@@ -8,7 +8,7 @@ import flixel.tweens.FlxTween;
 import flixel.tweens.FlxEase;
 
 class FreeplaySelectState extends MusicBeatState {
-	public static var freeplayCats:Array<String> = ['templatecat', 'templatecattwo'];
+	public static var freeplayCats:Array<String> = ['main', 'extra'];
 	public static var curCategory:Int = 0;
 
 	var curSelected:Int = 0;
@@ -165,3 +165,4 @@ class FreeplaySelectState extends MusicBeatState {
 		}
 	}
 }
+
