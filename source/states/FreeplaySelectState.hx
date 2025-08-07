@@ -27,7 +27,7 @@ class FreeplaySelectState extends MusicBeatState {
 
 	override function create() {
 		// Background with color tint
-		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
+		BG = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		BG.screenCenter();
 		BG.color = 0xFF4965FF ;
 		add(BG);
@@ -165,4 +165,5 @@ class FreeplaySelectState extends MusicBeatState {
 		}
 	}
 }
+
 
