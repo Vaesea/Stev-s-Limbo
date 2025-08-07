@@ -54,7 +54,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Corn And Diamonds (Bambi + Stev) (Week 3) (Made by Vaesea)
 - [x] Tope (V2) (Bambi) (Week 3) (Made by Vaesea)
 - [x] Purple (Purplev) (Week 4) (Made by Vaesea)
-- [ ] Frozen (Blev) (Week 5) (being worked on) (Will be made by Vaesea)
+- [x] Frozen (Blev) (Week 5) (Made by Vaesea)
 - [ ] Cold Blood (Blood Blev) (Week 6)
 - [ ] Paradise (Heavev) (Extra)
 - [ ] Void (True Hostilev) (Secret)
