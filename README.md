@@ -32,6 +32,8 @@ https://gamebanana.com/mods/ 380918 (Lyrics Event)
 
 https://gamebanana.com/tuts/ 18945 (Freeplay Categories)
 
+https://gamebanana.com/tuts/ 15047 (Psych Engine Watermark Tutorial)
+
 I forgot where Camera Switch came from.
 
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
