@@ -193,8 +193,9 @@ class FreeplayState extends MusicBeatState
 		}
 		else switch (category)
 		{
-			case 'templatecat':
-				addWeek(['tutorial'], 0, 0xFFca1f6f, ['gf']);
+			case 'main':
+				addWeek(['tutorial', 'test', 'alsotest'], 0, 0xFF0000, ['gf', 'bf', 'gf']);
+				addWeek(['funnytest', 'sadtest', 'gianttesticles'], 0, 0xFFFFFF, ['stev', '410hostilev', 'stev']);
 			default:
 				trace('Category not found: $category - loading all songs');
 				loadAllSongs();
