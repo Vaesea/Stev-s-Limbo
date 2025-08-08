@@ -34,21 +34,21 @@
 		},
 		{
 			"offsets": [0, 0],
-			"indices": [],
+			"loop": true,
 			"fps": 12,
 			"anim": "idle",
-			"loop": true,
+			"indices": [],
 			"name": "idle"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/blev",
-	"position": [-1730, -500],
+	"position": [-1670, -500],
 	"healthicon": "blev",
 	"flip_x": true,
 	"healthbar_colors": [0, 15, 206],
-	"camera_position": [0, -10],
+	"camera_position": [1590, 860],
 	"sing_duration": 4,
 	"scale": 0.2,
 	"_editor_isPlayer": false
