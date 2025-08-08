@@ -58,7 +58,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Purple (Purplev) (Week 4) (Made by Vaesea)
 - [x] Frozen (Blev) (Week 5) (Made by Vaesea)
 - [x] Cold Blood (Blood Blev) (Week 6)
-- [ ] Paradise (Heavev) (Extra)
+- [x] Stevving (Stev) (Extra) (Made by Vaesea)
 - [ ] Void (True Hostilev) (Secret)
 
 ## Songs (For The Full Version)
