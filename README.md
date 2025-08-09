@@ -5,7 +5,7 @@ psych engine 1.0.4 takes way too long to compile but im using it anyways!
 
 410 hostilev??? nightmare hostilev.
 
-## Stev's Limbo Credits (the ones in-game will be added to the source code soon)
+## Stev's Limbo Credits (these will be added to the source code soon)
 Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very inspired by bambi's purgatory))
 
 Your Average FNF Pro (Made VS Stev and all the stuff from VS Stev that's used in this mod)
