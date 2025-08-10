@@ -92,7 +92,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [ ] Destruction (Corrupted Arratev, True Hostilev) (Week 7)
 - [ ] Acrimony (Recrafted) (https://docs.google.com/document/d/1zZeTNOTnpO0jbj8j2XQLeGkH-DGGNJ_ANJkF7yYmL-k/edit?usp=sharing) (Week 8) (being worked on)
 - [x] Stevving (Stev) (Extra) (Made by Vaesea)
-- [ ] Bug (410 Hostilev) (Extra)
+- [ ] Bug (Nightmare Hostilev) (Extra)
 - [x] Backspace (Bambi) (Extra) (Made by Vaesea)
 - [ ] Royalty (Purplev) (Extra)
 - [ ] Rich (Yelev) (Extra)
