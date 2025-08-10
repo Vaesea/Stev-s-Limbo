@@ -202,7 +202,7 @@ class FreeplayState extends MusicBeatState
 				addWeek(['frozen'], 1, 0xFFFFFF, ['blev']);
 				addWeek(['cold-blood'], 2, 0xFFFFFF, ['bloodblev']);
 			case 'extra':
-				addWeek(['paradise', 'void'], 0, 0xFFFFFF, ['heavev', 'truehostilev']);
+				addWeek(['stevving', 'paradise', 'void'], 0, 0xFFFFFF, ['stev', 'heavev', 'truehostilev']);
 			default:
 				trace('Category not found: $category - loading all songs');
 				loadAllSongs();
