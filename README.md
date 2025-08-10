@@ -59,7 +59,8 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Frozen (Blev) (Week 5) (Made by Vaesea)
 - [x] Cold Blood (Blood Blev) (Week 6)
 - [x] Stevving (Stev) (Extra) (Made by Vaesea)
-- [ ] Void (True Hostilev) (Secret)
+- [ ] Paradise (Heavev) (Extra) (being worked on)
+- [ ] Void (True Hostilev) (Extra)
 
 ## Songs (For The Full Version)
 - [x] Lava (V3) (Angry Stev) (Week 1) (Made by Vaesea)
@@ -99,7 +100,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [ ] 2904802948 (V2) (Blev) (Extra) (There was a V2 of this song in VS Stev Red Heaven, but I'm not using that one since it takes too long to start) (Will be made by Vaesea)
 - [ ] Systematize (Arratev) (Extra) (I was making an Arratev song named Systematize a long time ago but that's scrapped)
 - [ ] Paradise (Heavev) (Extra)
-- [ ] Void (True Hostilev) (Secret)
+- [ ] Void (True Hostilev) (Extra)
 
 ## Scrapped Songs and Song Ideas
 - [x] No Limit (Hellish Hostilev) (Scrapped because the vocals of it were terrible and it no longer makes sense to be in the mod) (Made by Vaesea and Convival (convival9 on youtube))
@@ -110,6 +111,8 @@ Any song made by me (Vaesea) can be used in other mods.
 ## Extra Info
 You can help with this if you want, I'll upload stuff such as effects for characters and voices for characters soon but if you want those now just ask me in issues or on Discord.
 My discord account is vaesea.
+
+Don't put stuff in assets unless absolutely necessary (for example, a new type of note should go in assets, but a new song should go in mods)
 
 ***
 
