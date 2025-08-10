@@ -59,7 +59,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Frozen (Blev) (Week 5) (Made by Vaesea)
 - [x] Cold Blood (Blood Blev) (Week 6)
 - [x] Stevving (Stev) (Extra) (Made by Vaesea)
-- [ ] Paradise (Heavev) (Extra) (being worked on)
+- [x] Paradise (Heavev) (Extra) (Made by Vaesea)
 - [ ] Void (True Hostilev) (Extra)
 
 ## Songs (For The Full Version)
@@ -78,7 +78,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Golden (Yelev) (Week 4) (Made by Vaesea)
 - [ ] Violet Gold (Purplev and Yelev) (Week 4)
 - [x] Cheated (Cheated Hostilev) (Week 4) (Made by Vaesea)
-- [ ] Frozen (Blev) (Week 5) (being worked on) (Will be made by Vaesea)
+- [x] Frozen (Blev) (Week 5) (being worked on) (Will be made by Vaesea)
 - [ ] Arrangement (V3) (Arratev) (Week 5) (Will be made by Vaesea)
 - [x] Heaven (V6) (Heavev) (Week 5) (Made by Vaesea)
 - [ ] Apocalypse (Blev + Arratev, Heavev, Heavev + Blev, Injustice Hostilev) (Week 5)
@@ -90,7 +90,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [ ] Laughing (Demonic Heavev, True Hostilev) (Week 7)
 - [ ] Carnage (Blood Blev, True Hostilev) (Week 7)
 - [ ] Destruction (Corrupted Arratev, True Hostilev) (Week 7)
-- [ ] Acrimony (Recrafted) (https://docs.google.com/document/d/1zZeTNOTnpO0jbj8j2XQLeGkH-DGGNJ_ANJkF7yYmL-k/edit?usp=sharing) (Week 8) (Will be made by Vaesea)
+- [ ] Acrimony (Recrafted) (https://docs.google.com/document/d/1zZeTNOTnpO0jbj8j2XQLeGkH-DGGNJ_ANJkF7yYmL-k/edit?usp=sharing) (Week 8) (being worked on)
 - [x] Stevving (Stev) (Extra) (Made by Vaesea)
 - [ ] Bug (410 Hostilev) (Extra)
 - [x] Backspace (Bambi) (Extra) (Made by Vaesea)
@@ -99,7 +99,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Injustice (Injustice Hostilev) (Extra) (Made by Vaesea)
 - [ ] 2904802948 (V2) (Blev) (Extra) (There was a V2 of this song in VS Stev Red Heaven, but I'm not using that one since it takes too long to start) (Will be made by Vaesea)
 - [ ] Systematize (Arratev) (Extra) (I was making an Arratev song named Systematize a long time ago but that's scrapped)
-- [ ] Paradise (Heavev) (Extra)
+- [x] Paradise (Heavev) (Extra)
 - [ ] Void (True Hostilev) (Extra)
 
 ## Scrapped Songs and Song Ideas
