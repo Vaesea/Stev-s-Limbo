@@ -1,5 +1,5 @@
 # This is a basic workflow to help you get started with Actions
-# Original workflow from Psych Engine, I edited it to only build for Windows. Linux support will be for releases of the mod as I can test Linux Builds with Linux Mint.
+# This workflow is from Psych Engine, I edited it to only build for Windows. Linux support will be for releases of the mod as I can test Linux Builds with Linux Mint.
 # I can't test Mac builds and Mac builds take forever to compile.
 
 name: Build
