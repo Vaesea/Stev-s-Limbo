@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="truehostilev.png">
+<SubTexture name="idle0000" x="0" y="0" width="910" height="1717" frameX="0" frameY="0" frameWidth="910" frameHeight="1717" />
+</TextureAtlas>
