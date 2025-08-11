@@ -60,7 +60,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Cold Blood (Blood Blev) (Week 6)
 - [x] Stevving (Stev) (Extra) (Made by Vaesea)
 - [x] Paradise (Heavev) (Extra) (Made by Vaesea)
-- [ ] Void (True Hostilev) (Extra)
+- [x] Hostility (True Hostilev) (Extra) (Made by Vaesea)
 
 ## Songs (For The Full Version)
 - [x] Lava (V3) (Angry Stev) (Week 1) (Made by Vaesea)
