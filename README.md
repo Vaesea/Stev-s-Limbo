@@ -10,7 +10,7 @@ Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very insp
 
 Your Average FNF Pro (Made VS Stev and all the stuff from VS Stev that's used in this mod)
 
-Maevings (Opposition. Hostility is VERY inspired by Opposition, it accidentally copies like 2 of the patterns, oops. That will be changed next demo!)
+Maevings (Opposition. Hostility is VERY inspired by Opposition, it accidentally copies like 2 of the patterns, oops. That will be changed next demo! Also to be clear, Opposition is NOT used in this mod because this isn't VS Stev Definitive Edition (no hate to vsde))
 
 https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect)
 
