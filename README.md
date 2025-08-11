@@ -36,7 +36,7 @@ https://gamebanana.com/tuts/ 15047 (Psych Engine Watermark Tutorial)
 
 https://gamebanana.com/tools/ 9594 (Screen Shake on Opponent Note Hit)
 
-I forgot where Camera Switch came from.
+https://gamebanana.com/tools/ 11219 (Camera Switch Event)
 
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
