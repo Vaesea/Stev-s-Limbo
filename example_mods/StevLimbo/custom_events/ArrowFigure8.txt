@@ -1,0 +1,8 @@
+Makes all strum arrows move in a figure-8 pattern, with each arrow ¼ beat out of sync.
+Arrows also pulse one-by-one to the beat and rotate slightly for a trippy visual effect.
+
+Value 1:
+"on" to enable effect, "off" to disable and reset arrow positions.
+
+Value 2: (Optional)
+Float value for movement speed multiplier (default: 1).
