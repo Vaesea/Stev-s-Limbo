@@ -1,1 +1,1 @@
-to enable the secrets, type "river", "shadow" or "bb" on the title screen!
+im lazy and im keeping this in for some reason. you cant enable these secrets so this shit is unused :3
