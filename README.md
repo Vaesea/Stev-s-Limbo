@@ -1,5 +1,5 @@
 # VS STEV - STEV'S LIMBO
-really inspired by bambi's purgatory
+very inspired by bambi's purgatory
 
 psych engine 1.0.4 takes way too long to compile but im using it anyways!
 
@@ -128,14 +128,27 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Paradise (Heavev) (Extra)
 - [x] Hostility (V3) (True Hostilev) (Extra) (Made by Vaesea) (the reason why the v3 of the song isn't gonna be the v2 of the song is because v2 is an update, v3 is a remake)
 
-## Scrapped Songs and Song Ideas
+## Scrapped Songs and Song Ideas (a lot of these are from a mostly-scrapped plan of the mod)
 - [x] No Limit (Hellish Hostilev) (Scrapped because the vocals of it were terrible and it no longer makes sense to be in the mod) (Made by Vaesea and Convival (convival9 on youtube))
 - [x] Corny (Bambi) (Scrapped because I just didn't want to chart it) (Made by Vaesea)
 - [x] Gone (Nightmare Hostilev) (Scrapped because it was stupid. The song was pretty good but the lyrics part was weird) (Made by Vaesea)
-
+- [ ] Void (True Hostilev) (Scrapped because Hostility was added instead. THe song would've been very inspired by Lacuna)
+- [ ] Acrimony (Remake) (Scrapped because it was getting too crazy, like what do you mean Pico would've been in the song???) (Only the True Hostilev, Corrupted Arratev and Ungodly Heavev parts were made)
+- [ ] The ENTIRE Stev mod (So basically this mod was planned to be added to a mod I would've made named VS Stev Denpa Recreation, which would've recreated VS Stev in Denpa Engine and added this mod to it, although smaller than Demo 1, with just Week 1 (although with different songs, like Lava being Anger, Angry being Desolation (Remake), Malicious being Evil, Destroyed Sword would've been the same), Gone (which is a scrapped song), Frozen and Hostility. However, this mod became its own thing and also was made using Psych Engine instead of Denpa Engine)
+- [ ] Anger (Angry Stev) (Scrapped before this mod started being worked on)
+- [ ] Desolation (Remake) (Scrapped because this is used in VS Stev Harsh Mess, also scrapped before this mod started being worked on)
+- [ ] Evil (Cheating Stev) (Scrapped before this mod started being worked on)
+- [ ] Cornless (Angry Stev + Cheating Stev VS Bambi) (Scrapped before this mod started being worked on, also in this mod, Stev and Bambi are friends, not enemies. I don't think that's canon to any of these characters but in this mod they are friends)
+- [ ] Consequences (Stev with black eyes) (Scrapped before this mod started being worked on)
+- [ ] Fence (Angry Stev) (Scrapped before this mod started being worked on)
+- [ ] Farmin' Corn (V2) (Bambi) (Was being made despite not being on the song list)
+- [ ] Kidding (Jim, Entity) (Jim is Stev with a red shirt in Mineimator, Entity is a fully black stev with a long neck and a big eye, this song was scrapped before this mod started being worked on)
+- [ ] False (Hostilefriend) (Hostilefriend is Boyfriend Hostilev, basically 3D Boyfriend, this song was scrapped before this mod started being worked on)
+- [ ] Dark (Dar) (Scrapped before this mod started being worked on, I don't know how to describe Dar other than a fully black 3D Stev)
+- [ ] Rancour (Corrupted Arratev, Blood Blev, True Hostilev) (Scrapped before this mod started being worked on, basically turned into Acrimony Recrafted)
 
 ## Extra Info
-You can help with this if you want, I'll upload stuff such as effects for characters and voices for characters soon but if you want those now just ask me in issues or on Discord.
+You can help with this if you want, I'll upload stuff such as voices for characters soon but if you want those now just ask me in issues or on Discord.
 My discord account is vaesea.
 
 Don't put stuff in assets unless absolutely necessary (for example, a new type of note should go in assets, but a new song should go in mods)
@@ -148,7 +161,7 @@ Don't put stuff in assets unless absolutely necessary (for example, a new type o
 * Riveren - Main Artist/Animator of Psych Engine.
 
 ### Special Thanks
-* bbpanzu - Ex-Team Member (Programmer).
+* bbpanzu - Ex-Psych Team Member (Programmer).
 * crowplexus - HScript Iris, Input System v3, and Other PRs.
 * Kamizeta - Creator of Pessy, Psych Engine's mascot.
 * MaxNeton - Loading Screen Easter Egg Artist/Animator.
