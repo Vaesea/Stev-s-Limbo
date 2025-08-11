@@ -42,6 +42,8 @@ https://gamebanana.com/tools/ 11219 (Camera Switch Event)
 
 https://gamebanana.com/tools/ 19309 (The top-left text in Hostility)
 
+https://gamebanana.com/tools/ 20122 (The modchart used in Hostility)
+
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
 ## Bambi has something to say!
