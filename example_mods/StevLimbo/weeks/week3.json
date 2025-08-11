@@ -2,9 +2,10 @@
 	"storyName": "corn is everywhere",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
-	"weekBackground": "nightmare",
+	"weekBackground": "bambi",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"farm of corn",
@@ -39,7 +40,6 @@
 		"",
 		""
 	],
-	"hideStoryMode": false,
-	"hiddenUntilUnlocked": false,
-	"weekName": "Week 3"
+	"weekName": "Week 3",
+	"hiddenUntilUnlocked": false
 }

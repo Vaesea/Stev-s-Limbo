@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"cold blood",
+			"bloodblev",
+			[
+				175,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "blood",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "spooky... oooooo scary!!!! im going insane",
+	"weekName": "Week 6",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

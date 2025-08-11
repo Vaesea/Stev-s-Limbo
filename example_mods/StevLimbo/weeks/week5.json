@@ -1,0 +1,27 @@
+{
+	"storyName": "Blev and (in the future), Heavev and Arratev",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "blev",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"frozen",
+			"blev",
+			[
+				0,
+				0,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 5"
+}

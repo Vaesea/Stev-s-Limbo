@@ -1,0 +1,27 @@
+{
+	"storyName": "Purplev and (in the future), Yelev",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "purplev",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"purple",
+			"purplev",
+			[
+				166,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 4"
+}
