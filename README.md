@@ -10,6 +10,8 @@ Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very insp
 
 Your Average FNF Pro (Made VS Stev and all the stuff from VS Stev that's used in this mod)
 
+Maevings (Opposition. Hostility is VERY inspired by Opposition, it accidentally copies like 2 of the patterns, oops. That will be changed next demo!)
+
 https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect)
 
 https://gamebanana.com/tuts/ 17332 (Wavy Background)
@@ -45,7 +47,7 @@ The reason why Gamebanana and GitHub links have spaces in them is because I'm sc
 ## Bambi has something to say!
 I'm Gonna Break My Phone. Holy Shit.
 
-## Songs (For The Demo)
+## Songs (For Demo 1)
 Any song made by me (Vaesea) can be used in other mods.
 - [x] Lava (V3) (Angry Stev) (Week 1) (Made by Vaesea)
 - [x] Angry (Angry Stev, Cheating Stev) (Week 1) (inspired by shattered) (Made by Vaesea)
@@ -63,6 +65,26 @@ Any song made by me (Vaesea) can be used in other mods.
 - [x] Stevving (Stev) (Extra) (Made by Vaesea)
 - [x] Paradise (Heavev) (Extra) (Made by Vaesea)
 - [x] Hostility (True Hostilev) (Extra) (Made by Vaesea)
+
+## Songs (For Demo 2)
+- [ ] Lava (V4) (Angry Stev) (Week 1) (Made by Vaesea)
+- [x] Angry (Angry Stev, Cheating Stev) (Week 1) (inspired by shattered) (Made by Vaesea)
+- [x] Malicious (Cheating Stev) (Week 1) (Made by Vaesea)
+- [x] Destroyed Sword (Godly Stev) (Week 1) (inspired by reality breaking) (Made by Vaesea)
+- [x] Error (Nightmare Hostilev) (Week 2) (inspired by rebound) (Made by Vaesea)
+- [x] Scare (Nightmare Hostilev) (Week 2) (Made by Vaesea)
+- [ ] Nightmare (Nightmare Hostilev) (Week 2)
+- [x] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2) (inspired by upheaval) (Made by Vaesea)
+- [x] Farm Of Corn (V2) (Bambi) (Week 3) (Made by Vaesea)
+- [x] Corn And Diamonds (Bambi + Stev) (Week 3) (Made by Vaesea)
+- [x] Tope (V2) (Bambi) (Week 3) (Made by Vaesea)
+- [ ] Bambi (Angry Bambi) (Week 3)
+- [x] Purple (Purplev) (Week 4) (Made by Vaesea)
+- [x] Frozen (Blev) (Week 5) (Made by Vaesea)
+- [x] Cold Blood (Blood Blev) (Week 6)
+- [x] Stevving (Stev) (Extra) (Made by Vaesea)
+- [x] Paradise (Heavev) (Extra) (Made by Vaesea)
+- [x] Hostility (V2) (True Hostilev) (Extra) (Made by Vaesea)
 
 ## Songs (For The Full Version)
 - [x] Lava (V3) (Angry Stev) (Week 1) (Made by Vaesea)
@@ -102,7 +124,7 @@ Any song made by me (Vaesea) can be used in other mods.
 - [ ] 2904802948 (V2) (Blev) (Extra) (There was a V2 of this song in VS Stev Red Heaven, but I'm not using that one since it takes too long to start) (Will be made by Vaesea)
 - [ ] Systematize (Arratev) (Extra) (I was making an Arratev song named Systematize a long time ago but that's scrapped)
 - [x] Paradise (Heavev) (Extra)
-- [ ] Void (True Hostilev) (Extra)
+- [x] Hostility (V3) (True Hostilev) (Extra) (Made by Vaesea) (the reason why the v3 of the song isn't gonna be the v2 of the song is because v2 is an update, v3 is a remake)
 
 ## Scrapped Songs and Song Ideas
 - [x] No Limit (Hellish Hostilev) (Scrapped because the vocals of it were terrible and it no longer makes sense to be in the mod) (Made by Vaesea and Convival (convival9 on youtube))
