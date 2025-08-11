@@ -57,6 +57,8 @@ class CreditsState extends MusicBeatState
 			["Barney Downtown / Sebbat", "placeholder", "Made a watermark tutorial",						"https://gamebanana.com/members/1995181",	"FFFFFF"],
 			["Ghost1905027",		"placeholder",		"Made a Screen Shake on note hit event",			"https://gamebanana.com/members/1905027",	"FFFFFF"],
 			["twizinho",			"placeholder",		"Made a Camera Switch event",						"https://gamebanana.com/members/1794927",	"FFFFFF"],
+			["SobGuyGD",			"placeholder",		"Made the text script used in Hostility",			"https://gamebanana.com/members/2926271",	"FFFFFF"],
+			["ZtickyNote",			"placeholder",		"Modchart used in Hostility",						"https://gamebanana.com/members/3284976",	"FFFFFF"],
 			[""],
 			["Psych Engine Team"],
 			["Shadow Mario",		"shadowmario",		"Main Programmer and Head of Psych Engine",					"https://ko-fi.com/shadowmario",	"FFFFFF"],
