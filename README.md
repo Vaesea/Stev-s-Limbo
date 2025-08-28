@@ -1,4 +1,4 @@
-# VS STEV - STEV'S LIMBO
+# VS STEV - STEV'S LIMBO (CANCELLED)
 very inspired by bambi's purgatory
 
 psych engine 1.0.4 takes way too long to compile but im using it anyways!
