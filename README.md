@@ -10,7 +10,7 @@ Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very insp
 
 Your Average FNF Pro (Made VS Stev and all the stuff from VS Stev that's used in this mod)
 
-Maevings (Opposition. Hostility is VERY inspired by Opposition, it accidentally copies like 2 of the patterns, oops. It can't really be changed to a new version since the mod is basically cancelled now)
+Maevings (Opposition. Hostility is just Stev opposition (NOT A COVER, this isn't VSDE)) (hostility will be removed soon!)
 
 https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect)
 
@@ -40,7 +40,7 @@ https://gamebanana.com/tools/ 9594 (Screen Shake on Opponent Note Hit)
 
 https://gamebanana.com/tools/ 11219 (Camera Switch Event)
 
-https://gamebanana.com/tools/ 19309 (The top-left text in Hostility)
+https://gamebanana.com/tools/ 19309 (The top text in Hostility)
 
 https://gamebanana.com/tools/ 20122 (The modchart used in Hostility)
 
@@ -54,14 +54,12 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Angry (Angry Stev, Cheating Stev) (Week 1) (Made by Vaesea)
 - [x] Malicious (Cheating Stev) (Week 1) (Made by Vaesea)
 - [x] Destroyed Sword (Godly Stev) (Week 1) (Made by Vaesea)
-- [x] Error (Nightmare Hostilev) (Week 2) (Made by Vaesea)
-- [x] Scare (Nightmare Hostilev) (Week 2) (Made by Vaesea)
-- [ ] Nightmare (Nightmare Hostilev) (Week 2)
-- [x] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2) (Made by Vaesea)
-- [x] Farm Of Corn (V2) (Bambi) (Week 3) (Made by Vaesea)
-- [x] Corn And Diamonds (Bambi + Stev) (Week 3) (Made by Vaesea)
-- [x] Tope (V2) (Bambi) (Week 3) (Made by Vaesea)
-- [ ] Mad (Angry Bambi) (Week 3) (Made by Vaesea)
+- [x] Cheated (Cheated Hostilev) (Week 2) (Made by Vaesea)
+- [x] Injustice (injustice Hostilev) (Week 2) (Made by Vaesea)
+- [x] Error (Nightmare Hostilev) (Week 3) (Made by Vaesea)
+- [x] Scare (Nightmare Hostilev) (Week 3) (Made by Vaesea)
+- [ ] Nightmare (Nightmare Hostilev) (Week 3)
+- [x] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 3) (Made by Vaesea)
 - [x] Purple (Purplev) (Week 4) (Made by Vaesea)
 - [x] Golden (Yelev) (Week 4) (Made by Vaesea)
 - [ ] Violet Gold (Purplev and Yelev) (Week 4)
@@ -88,7 +86,6 @@ I'm Gonna Break My Phone. Holy Shit.
 - [ ] 2904802948 (V2) (Blev) (Extra) (There was a V2 of this song in VS Stev Red Heaven, but I'm not using that one since it takes too long to start) (Will be made by Vaesea)
 - [ ] Systematize (Arratev) (Extra) (I was making an Arratev song named Systematize a long time ago but that's scrapped)
 - [x] Paradise (Heavev) (Extra)
-- [x] Hostility (V2) (True Hostilev) (Extra) (Made by Vaesea)
 
 ## Scrapped Songs and Song Ideas (a lot of these are from a mostly-scrapped plan of the mod)
 - [x] No Limit (Hellish Hostilev) (Scrapped because the vocals of it were terrible and it no longer makes sense to be in the mod) (Made by Vaesea and Convival (convival9 on youtube))
@@ -98,9 +95,9 @@ I'm Gonna Break My Phone. Holy Shit.
 - [ ] Acrimony (Remake) (Scrapped because it was getting too crazy, like what do you mean Pico would've been in the song???) (Only the True Hostilev, Corrupted Arratev and Ungodly Heavev parts were made)
 - [ ] The ENTIRE Stev mod (So basically this mod was planned to be added to a mod I would've made named VS Stev Denpa Recreation, which would've recreated VS Stev in Denpa Engine and added this mod to it, although smaller than Demo 1, with just Week 1 (although with different songs, like Lava being Anger, Angry being Desolation (Remake), Malicious being Evil, Destroyed Sword would've been the same), Gone (which is a scrapped song), Frozen and Hostility. However, this mod became its own thing and also was made using Psych Engine instead of Denpa Engine)
 - [ ] Anger (Angry Stev) (Scrapped before this mod started being worked on)
-- [ ] Desolation (Remake) (Scrapped because this is used in VS Stev Harsh Mess, also scrapped before this mod started being worked on)
+- [x] Desolation (Remake) (Scrapped because this is used in VS Stev Harsh Mess, also scrapped before this mod started being worked on)
 - [ ] Evil (Cheating Stev) (Scrapped before this mod started being worked on)
-- [ ] Cornless (Angry Stev + Cheating Stev VS Bambi) (Scrapped before this mod started being worked on, also in this mod, Stev and Bambi are friends, not enemies. I don't think that's canon to any of these characters but in this mod they are friends)
+- [ ] Cornless (Angry Stev + Cheating Stev VS Bambi) (Scrapped before this mod started being worked on)
 - [ ] Consequences (Stev with black eyes) (Scrapped before this mod started being worked on)
 - [ ] Fence (Angry Stev) (Scrapped before this mod started being worked on)
 - [ ] Farmin' Corn (V2) (Bambi) (Was being made despite not being on the song list)
@@ -108,10 +105,16 @@ I'm Gonna Break My Phone. Holy Shit.
 - [ ] False (Hostilefriend) (Hostilefriend is Boyfriend Hostilev, basically 3D Boyfriend, this song was scrapped before this mod started being worked on)
 - [ ] Dark (Dar) (Scrapped before this mod started being worked on, I don't know how to describe Dar other than a fully black 3D Stev)
 - [ ] Rancour (Corrupted Arratev, Blood Blev, True Hostilev) (Scrapped before this mod started being worked on, basically turned into Acrimony Recrafted)
-- [ ] Hostility (V1) (True Hostilev) (This was made and charted but it was gonna be scrapped)
+- [x] Hostility (V1) (True Hostilev) (This was made and charted but it's scrapped)
+- [x] Hostility (V1.5) (True Hostilev) (This was made but it's scrapped)
+- [x] Hostility (V2) (True Hostilev) (This was made but it's scrapped)
+- [x] Farm Of Corn (V2) (Bambi) (Made and charted but scrapped)
+- [x] Corn And Diamonds (Bambi + Stev) (Made and charted but scrapped)
+- [x] Tope (V2) (Bambi) (Week 3) (Made and charted but scrapped)
+- [ ] Mad (Angry Bambi) (Week 3) (This was planned but it was scrapped)
 
 ## Extra Info
-Anyone can continue this mod. If anyone wants me to make any songs for their version of the mod, just ask me. I'll probably continue Acrimony Recrafted anyways.
+Anyone can make the songs that haven't been made yet.
 
 ***
 
