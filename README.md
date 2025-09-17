@@ -75,9 +75,6 @@ I'm Gonna Break My Phone. Holy Shit.
 - [x] Tope (V2) (Bambi) (Week 3) (Made and charted but scrapped)
 - [ ] Mad (Angry Bambi) (Week 3) (This was planned but it was scrapped)
 
-## Extra Info
-Anyone can make the songs that haven't been made yet.
-
 ***
 
 ## Psych Engine Credits
